@@ -9,7 +9,8 @@
 ### 🙋‍♂️ About Me
 
 👨‍💻 **Full-Time Role**: Developing robust **Java applications with Quarkus** to solve real-world problems.  
-🌟 **Hobbies**: Experimenting with **Go**, building scripts in **Python**, and creating cool **Next.js** projects.
+🌟 **Hobbies**: Experimenting with **Go**, building scripts in **Python**, and creating cool **Next.js** projects.  
+🚀 **DevOps & CI/CD**: Passionate about automation using **Jenkins** and container orchestration with **OpenShift**.
 
 ---
 
@@ -25,11 +26,19 @@
 [![Quarkus](https://img.shields.io/badge/Quarkus-%2359C9E6.svg?style=for-the-badge&logo=quarkus&logoColor=white)](https://quarkus.io/)
 [![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
-#### Tools:
+#### Tools & DevOps:
 [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white)](https://www.openshift.com/)
+
+---
+
+### 🚀 CI/CD & Cloud Integration
+
+✅ **Jenkins** for automating builds, testing, and deployments.  
+✅ **OpenShift** for managing and orchestrating containerized applications.  
+✅ **Docker** for containerization, ensuring seamless and reproducible environments.  
 
 ---
 
@@ -38,5 +47,3 @@
 - 🌐 [Personal Portfolio](https://jamesspencer19.net)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jamesspencerprofile/)  
 - 🐦 [Twitter](https://x.com/jamesspencer177)  
-
----
