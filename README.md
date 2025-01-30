@@ -10,7 +10,7 @@
 
 👨‍💻 **Full-Time Role**: Developing robust **Java applications with Quarkus** to solve real-world problems.  
 🌟 **Hobbies**: Experimenting with **Go**, building scripts in **Python**, and creating cool **Next.js** projects.  
-🚀 **DevOps & CI/CD**: Passionate about automation using **Jenkins** and container orchestration with **OpenShift**.
+🚀 **DevOps & Cloud**: Passionate about **CI/CD automation with Jenkins**, **container orchestration using OpenShift**, and **scalable cloud solutions on AWS**.
 
 ---
 
@@ -26,19 +26,45 @@
 [![Quarkus](https://img.shields.io/badge/Quarkus-%2359C9E6.svg?style=for-the-badge&logo=quarkus&logoColor=white)](https://quarkus.io/)
 [![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
-#### Tools & DevOps:
+#### DevOps & Cloud Tools:
 [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 [![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white)](https://www.openshift.com/)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 
 ---
 
-### 🚀 CI/CD & Cloud Integration
+### 🚀 CI/CD & Cloud Breakdown
 
-✅ **Jenkins** for automating builds, testing, and deployments.  
-✅ **OpenShift** for managing and orchestrating containerized applications.  
-✅ **Docker** for containerization, ensuring seamless and reproducible environments.  
+#### 🛠️ **Jenkins - Automating CI/CD**
+- Configuring **pipelines** to automate builds, testing, and deployments.
+- Writing **Groovy scripts** for advanced pipeline customization.
+- Integrating with **Docker, Kubernetes, and AWS** for end-to-end automation.
+
+#### 🏗️ **OpenShift - Container Orchestration**
+- Managing containerized applications on **Red Hat OpenShift**.
+- Deploying scalable **microservices** in a **Kubernetes-native** environment.
+- Implementing **RBAC (Role-Based Access Control)** and security policies.
+
+#### ☁️ **AWS - Cloud Infrastructure**
+- **EC2** for virtualized compute power.  
+- **S3** for scalable object storage.  
+- **EKS** (Elastic Kubernetes Service) for container orchestration.  
+- **Lambda** for serverless computing.  
+- **IAM & Security Groups** for securing cloud resources.
+
+---
+
+### 💻 Featured Projects
+
+🚧 *More projects coming soon...*  
+
+| Project Name | Tech Stack | Description | Link |
+|-------------|-----------|-------------|------|
+| **CI/CD Pipeline** | Jenkins, Docker, AWS | Automated pipeline for building & deploying apps | 🔗 [GitHub](#) |
+| **Kubernetes Deployment** | OpenShift, AWS EKS | Deploying microservices with OpenShift | 🔗 [GitHub](#) |
+| **Serverless App** | AWS Lambda, Python | Event-driven API using AWS Lambda | 🔗 [GitHub](#) |
 
 ---
 
